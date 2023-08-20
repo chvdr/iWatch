@@ -12,7 +12,7 @@
 
 - The Apple Watch is now powered off.
 
-### [Origin (Article Explains That):](https://www.ifixit.com/Guide/How+to+Power+Off+a+Broken+Apple+Watch/125834)
+### [Origin (Article Explaining how exactly Apple Watch can be powered off)](https://www.ifixit.com/Guide/How+to+Power+Off+a+Broken+Apple+Watch/125834)
 
 ## AI Answer:
 
